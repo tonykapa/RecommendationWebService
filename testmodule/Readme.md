@@ -1,4 +1,4 @@
-# Web Service Module for Prestashop 1.7+
+# Recommendation Web Service Module for Prestashop 1.7+
 
 This module is calling a web service which returns Product ID's from items on your shop based on the user's purchase history using user id in your website.
 
