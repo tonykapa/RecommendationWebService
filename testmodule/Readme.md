@@ -6,7 +6,7 @@ The product id's are used to retrieve the products details from the database and
 
 When a purchase is completed, a POST request is sent to the Web Service with the details of the purchase.
 
-Module is using PHP,Symfony,Smarty,glider.js and curl for transfering data.
+Module is using PHP,Symfony,Smarty,glider.js(you must include it and initialize to your host yourself) and curl for transfering data.
 
 ## Installation
 
